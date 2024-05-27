@@ -1,4 +1,4 @@
-package com.adam.coroutine
+package com.adam.coroutine.sharedresource
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
